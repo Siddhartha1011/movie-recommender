@@ -1,5 +1,5 @@
 
-# Movie Recommender System 🎥  
+# Movie Recommender System   
 A content-based movie recommendation system using TF-IDF and cosine similarity.  
 Built with **FastAPI** for backend and **Gradio** for an interactive UI.  
 
